@@ -1,5 +1,5 @@
 # ChartJs
-Ionic + Chart JS
+Ionic Chart JS
 # Config
 Ionic:
 
