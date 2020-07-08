@@ -1,4 +1,4 @@
-# ChartJs
+# Ionic ChartJs
 Ionic Chart JS
 # Ionic Info
 Ionic:
