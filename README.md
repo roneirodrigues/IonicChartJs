@@ -1,6 +1,6 @@
 # ChartJs
 Ionic Chart JS
-# Config
+# Ionic Info
 Ionic:
 
    Ionic CLI : 6.10.1
